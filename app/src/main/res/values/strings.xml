@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MYNETAPP</string>
+    <string name="title_activity_main">mainActivity</string>
+    <string name="title_activity_service">serviceActivity</string>
+    <string name="title_activity_image2">imageActivity2</string>
+    <string name="title_activity_input">inputActivity</string>
+    <string name="title_activity_assgn">AssgnActivity</string>
+    <string name="title_activity_project">projectActivity</string>
+    <string name="title_activity_import2">ImportActivity2</string>
+</resources>
+
+
+
